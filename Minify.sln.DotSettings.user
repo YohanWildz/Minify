@@ -1,0 +1,41 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b1f6e43_002D94cb_002D4fd4_002Daa9f_002Dd00ac255a5c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Minify.Tests&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Project\Minify\tests" Presentation="&amp;lt;Minify.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2329cf30_002D2d22_002D43fe_002Dab27_002D4be4883ba70a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Genereruntoken" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8DB6DC9C-E5AD-4745-AE05-959EEE783F69::.NETCoreApp,Version=v3.1::Minify.Tests.UnitTest1.Genereruntoken&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=309bb848_002D8acc_002D477f_002D8007_002D933efd18c4c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Genereruntoken #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8DB6DC9C-E5AD-4745-AE05-959EEE783F69::.NETCoreApp,Version=v3.1::Minify.Tests.UnitTest1.Genereruntoken&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=43806828_002D4391_002D435a_002Daacb_002D69f8cba27a10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5449f32d_002D15be_002D48cc_002D9c7e_002D7e12e04dfb1d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Minify.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Project\Minify\tests" Presentation="&amp;lt;Minify.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=affb2172_002D88cf_002D4410_002D8f46_002Dbd866095d6af/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Minify.Tests&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Project\Minify\tests" Presentation="&amp;lt;Minify.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba358b94_002Dced4_002D4808_002Dba2c_002D7f83ef4a97da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Minify.Tests&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Project\Minify\tests" Presentation="&amp;lt;Minify.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c90f5d3f_002D7593_002D4fa1_002D88df_002D4e18e77be9a6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Genereruntoken #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8DB6DC9C-E5AD-4745-AE05-959EEE783F69::.NETCoreApp,Version=v3.1::Minify.Tests.UnitTest1.Genereruntoken&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc22105b_002Da8b3_002D419c_002Da00d_002Da41745c04c4f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Genereruntoken #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8DB6DC9C-E5AD-4745-AE05-959EEE783F69::.NETCoreApp,Version=v3.1::Minify.Tests.UnitTest1.Genereruntoken&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d480c4c1_002D1ac9_002D43bc_002D8386_002Ddd601b03c663/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Genereruntoken #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8DB6DC9C-E5AD-4745-AE05-959EEE783F69::.NETCoreApp,Version=v3.1::Minify.Tests.UnitTest1.Genereruntoken&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
