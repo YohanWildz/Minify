@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\Minify\\tests\\Minify.Tests.csproj": {}
+    "D:\\Project\\Minify\\tests\\Minify.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Project\\Minify\\src\\Minify.csproj": {
+    "D:\\Project\\Minify\\src\\Minify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\Minify\\src\\Minify.csproj",
+        "projectUniqueName": "D:\\Project\\Minify\\src\\Minify.csproj",
         "projectName": "Minify",
-        "projectPath": "C:\\Project\\Minify\\src\\Minify.csproj",
-        "packagesPath": "C:\\Users\\YoYo\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\Minify\\src\\obj\\",
+        "projectPath": "D:\\Project\\Minify\\src\\Minify.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Minify\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\YoYo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,35 +63,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\Minify\\tests\\Minify.Tests.csproj": {
+    "D:\\Project\\Minify\\tests\\Minify.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\Minify\\tests\\Minify.Tests.csproj",
+        "projectUniqueName": "D:\\Project\\Minify\\tests\\Minify.Tests.csproj",
         "projectName": "Minify.Tests",
-        "projectPath": "C:\\Project\\Minify\\tests\\Minify.Tests.csproj",
-        "packagesPath": "C:\\Users\\YoYo\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\Minify\\tests\\obj\\",
+        "projectPath": "D:\\Project\\Minify\\tests\\Minify.Tests.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Minify\\tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\YoYo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Project\\Minify\\src\\Minify.csproj": {
-                "projectPath": "C:\\Project\\Minify\\src\\Minify.csproj"
+              "D:\\Project\\Minify\\src\\Minify.csproj": {
+                "projectPath": "D:\\Project\\Minify\\src\\Minify.csproj"
               }
             }
           }
@@ -142,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

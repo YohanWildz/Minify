@@ -23,20 +23,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfa6583b-a2a5-4364-9198-a34af1c143a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Model/TokenGenerator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/TokenGeneratorTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/HomeControllerTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/MinifyControllerTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClientApp/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientApp/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controllers/MinifyController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/MinifyController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/MinifyData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/MinifyData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MongoRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/MongoRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Minify.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Minify.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minify.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Minify.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.exe" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/project.assets.json" afterDir="false" />
@@ -53,12 +58,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/81/Guid.Windows.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/2e/201d3c41/Assert.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/13DA8DF4-F4FB-4394-A581-F44A587913F7/32/FromBodyAttribute.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/3DC/List.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/13DA8DF4-F4FB-4394-A581-F44A587913F7/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F680C866-D120-4163-9634-EBD842255BE9/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/package-lock.json" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/2e/201d3c41/Assert.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,12 +74,14 @@
         <option value="$PROJECT_DIR$/src/Model/RepoClass.cs" />
         <option value="$PROJECT_DIR$/src/Model/Repository.cs" />
         <option value="$PROJECT_DIR$/src/Model/TokenGenerator.cs" />
-        <option value="$PROJECT_DIR$/src/Controllers/MinifyController.cs" />
         <option value="$PROJECT_DIR$/src/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/src/Model/MinifyData.cs" />
         <option value="$PROJECT_DIR$/src/MongoRepository.cs" />
         <option value="$PROJECT_DIR$/src/Repository.cs" />
+        <option value="$PROJECT_DIR$/src/Controllers/MinifyController.cs" />
+        <option value="$PROJECT_DIR$/tests/MinifyControllerTest.cs" />
+        <option value="$PROJECT_DIR$/tests/HomeControllerTest.cs" />
       </list>
     </option>
   </component>
@@ -135,6 +139,8 @@
       <updated>1608383528237</updated>
       <workItem from="1608383598408" duration="5079000" />
       <workItem from="1608392464881" duration="11300000" />
+      <workItem from="1608471301370" duration="219000" />
+      <workItem from="1608479388349" duration="4754000" />
     </task>
     <servers />
   </component>
@@ -159,22 +165,26 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1637" height="274" key="GridCell.Tab.0.bottom" timestamp="1608388851750">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1608484636514">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
-    <state width="1637" height="274" key="GridCell.Tab.0.center" timestamp="1608388851750">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636514" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1608484636513">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
-    <state width="1637" height="274" key="GridCell.Tab.0.left" timestamp="1608388851750">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636513" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1608484636512">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
-    <state width="1637" height="274" key="GridCell.Tab.0.right" timestamp="1608388851750">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636512" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1608484636513">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636513" />
     <state x="674" y="206" key="RiderGenerateDialog" timestamp="1608402229213">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -183,9 +193,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="92" y="92" width="1496" height="826" key="VCS.FileHistoryDialog/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608403863160" />
-    <state x="496" y="233" key="run.anything.popup" timestamp="1608398616619">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="567" y="240" key="run.anything.popup" timestamp="1608481577670">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="496" y="233" key="run.anything.popup/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608398616619" />
+    <state x="567" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608481577670" />
   </component>
 </project>
