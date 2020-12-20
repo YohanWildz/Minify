@@ -23,31 +23,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfa6583b-a2a5-4364-9198-a34af1c143a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/HomeControllerTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/MinifyControllerTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/RepositoryTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Minify/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minify.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Minify.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controllers/MinifyController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/MinifyController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/MinifyControllerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/MongoTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TokenGeneratorTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TokenGeneratorTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Tests.runtimeconfig.dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.exe" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bin/Debug/netcoreapp3.1/Minify.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Debug/netcoreapp3.1/Minify.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/Minify.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +52,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F680C866-D120-4163-9634-EBD842255BE9/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/43/3620029d/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/3DC/List.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/package-lock.json" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/2e/201d3c41/Assert.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -78,10 +73,13 @@
         <option value="$PROJECT_DIR$/tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/src/Model/MinifyData.cs" />
         <option value="$PROJECT_DIR$/src/MongoRepository.cs" />
-        <option value="$PROJECT_DIR$/src/Repository.cs" />
-        <option value="$PROJECT_DIR$/src/Controllers/MinifyController.cs" />
         <option value="$PROJECT_DIR$/tests/MinifyControllerTest.cs" />
         <option value="$PROJECT_DIR$/tests/HomeControllerTest.cs" />
+        <option value="$PROJECT_DIR$/tests/TokenGeneratorTest.cs" />
+        <option value="$PROJECT_DIR$/src/Repository.cs" />
+        <option value="$PROJECT_DIR$/tests/RepositoryTest.cs" />
+        <option value="$PROJECT_DIR$/tests/MongoTest.cs" />
+        <option value="$PROJECT_DIR$/src/Controllers/MinifyController.cs" />
       </list>
     </option>
   </component>
@@ -140,7 +138,7 @@
       <workItem from="1608383598408" duration="5079000" />
       <workItem from="1608392464881" duration="11300000" />
       <workItem from="1608471301370" duration="219000" />
-      <workItem from="1608479388349" duration="4754000" />
+      <workItem from="1608479388349" duration="9020000" />
     </task>
     <servers />
   </component>
@@ -165,26 +163,90 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1608484636514">
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1608488318977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636514" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1608484636513">
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1608488318977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636513" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1608484636512">
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1608488318977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636512" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1608484636513">
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1608488318977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1637" height="274" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1768.952@0.0.1680.1010" timestamp="1608388851750" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608484636513" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1608488318978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318978" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1608488318977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318977" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1608488318978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318978" />
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1608488318978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318978" />
+    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1608488318978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318978" />
+    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1608488318978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318978" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1608488318978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608488318978" />
     <state x="674" y="206" key="RiderGenerateDialog" timestamp="1608402229213">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

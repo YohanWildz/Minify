@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Minify.Model;
@@ -5,7 +6,7 @@ using Xunit;
 
 namespace Minify.Tests
 {
-    public class MinifyControllerTest
+    public class MongoTest
     {
         public static MongoRepository  _mongo = new MongoRepository();
         [Fact]
@@ -16,17 +17,15 @@ namespace Minify.Tests
             data.Url = "www.youtube.com";
             _mongo.Add(data);
             var result = _mongo.Get("Azerty");
-            
             Assert.Equal( "www.youtube.com",result.Url );
+            
+            
 
         }
         [Fact]
         public void TestGetLienByID()
         {
-            var data = new MinifyData();
-            
-            
-            
+           
             var result = _mongo.Get("Azerty");
             
             Assert.Equal( "www.youtube.com",result.Url );
@@ -39,6 +38,24 @@ namespace Minify.Tests
 
             Assert.IsType<List<MinifyData>>(result);
 
+        }
+        
+        [Fact]
+        public void TestDelLienByID()
+        {
+            //Je pense que c'est la bonne pratique pour tester une suprresion mais cela fonctionne 
+           
+            _mongo.Delete("Azerty");
+            
+            try
+            {
+                var result = _mongo.Get("Azerty");
+            }
+            catch 
+            {
+                Assert.True(true);
+            }
+            
         }
     }
 }

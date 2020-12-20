@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Minify.Interfaces;
@@ -7,7 +8,7 @@ namespace Minify
 {
     public class Repository : IRepository
     {
-        public static List<MinifyData> MinifyDatas; 
+        public List<MinifyData> MinifyDatas = new List<MinifyData>();
         
         
         public void Add(MinifyData minifyData)
@@ -17,6 +18,7 @@ namespace Minify
 
         public IEnumerable<MinifyData> Get()
         {
+            Console.Out.WriteLine(MinifyDatas);
             return MinifyDatas;
         }
 

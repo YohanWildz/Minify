@@ -146,7 +146,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="HomeControllerTest.cs" t="Include" />
         <e p="Minify.Tests.csproj" t="IncludeRecursive" />
-        <e p="MinifyControllerTest.cs" t="Include" />
+        <e p="MongoTest.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -154,6 +154,7 @@
             </e>
           </e>
         </e>
+        <e p="RepositoryTest.cs" t="Include" />
         <e p="TokenGeneratorTest.cs" t="Include" />
       </e>
     </e>

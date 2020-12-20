@@ -13,6 +13,8 @@ namespace Minify.Controllers
     public class MinifyController : ControllerBase
     {
         public static MongoRepository  _mongo = new MongoRepository();
+        public static Repository  _Repository= new Repository();
+        // Les fonction avec le _Repository sont commentée pour eviter les confusion. 
         public static TokenGenerator _tokenGenerator = new TokenGenerator();
         
         [HttpPost]
@@ -20,6 +22,7 @@ namespace Minify.Controllers
         {
             data.Key = _tokenGenerator.Generate();
            _mongo.Add(data);
+           // _Repository.Add(data);
 
         }
 
@@ -27,13 +30,14 @@ namespace Minify.Controllers
         public IEnumerable<MinifyData> Get()
         {
            return _mongo.Get();
-
+           //return _Repository.Get();
         }
 
         [HttpDelete("{id}")]
         public void Delete(string id)
         {
             _mongo.Delete(id);
+            //_Repository.Delete(id);
         }
     }
 }
