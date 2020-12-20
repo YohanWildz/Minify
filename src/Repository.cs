@@ -18,7 +18,6 @@ namespace Minify
 
         public IEnumerable<MinifyData> Get()
         {
-            Console.Out.WriteLine(MinifyDatas);
             return MinifyDatas;
         }
 

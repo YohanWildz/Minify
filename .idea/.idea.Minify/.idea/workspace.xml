@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa6583b-a2a5-4364-9198-a34af1c143a2" name="Default Changelist" comment="" />
+    <list default="true" id="cfa6583b-a2a5-4364-9198-a34af1c143a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +58,11 @@
         <option value="$PROJECT_DIR$/tests/MinifyControllerTest.cs" />
         <option value="$PROJECT_DIR$/tests/HomeControllerTest.cs" />
         <option value="$PROJECT_DIR$/tests/TokenGeneratorTest.cs" />
-        <option value="$PROJECT_DIR$/src/Repository.cs" />
-        <option value="$PROJECT_DIR$/tests/RepositoryTest.cs" />
-        <option value="$PROJECT_DIR$/tests/MongoTest.cs" />
         <option value="$PROJECT_DIR$/src/Controllers/MinifyController.cs" />
         <option value="$PROJECT_DIR$/src/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/tests/MongoTest.cs" />
+        <option value="$PROJECT_DIR$/tests/RepositoryTest.cs" />
+        <option value="$PROJECT_DIR$/src/Repository.cs" />
       </list>
     </option>
   </component>
@@ -120,6 +122,7 @@
       <workItem from="1608392464881" duration="11300000" />
       <workItem from="1608471301370" duration="219000" />
       <workItem from="1608479388349" duration="9322000" />
+      <workItem from="1608490646239" duration="329000" />
     </task>
     <servers />
   </component>
