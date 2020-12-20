@@ -45,7 +45,7 @@ namespace Minify.Tests
         [Fact]
         public void TestDelLienByIDRepo()
         {
-            //Je pense que c'est la bonne pratique pour tester une suprresion mais cela fonctionne 
+            //Je ne pense pas que c'est la bonne pratique pour tester une suprresion mais cela fonctionne 
            
             _Repository.Delete("Azerty");
             
