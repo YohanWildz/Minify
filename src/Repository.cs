@@ -8,7 +8,7 @@ namespace Minify
 {
     public class Repository : IRepository
     {
-        public List<MinifyData> MinifyDatas = new List<MinifyData>();
+        public static List<MinifyData> MinifyDatas = new List<MinifyData>();
         
         
         public void Add(MinifyData minifyData)
